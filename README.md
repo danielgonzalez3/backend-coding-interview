@@ -65,3 +65,7 @@ We expect this to take **2-6 hours** of focused work. If you find yourself spend
 This challenge is designed to be open-ended because we want to understand how you think about building systems, not just whether you can follow a specification. Show us your engineering judgment, your decision-making process, and what you believe "done" really means.
 
 **Any questions?** Send emails to <a href="mailto:ryan@movewithclever.com">ryan@movewithclever.com</a>. Good luck!
+
+---
+
+# Implementation
